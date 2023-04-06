@@ -3,12 +3,12 @@
 Note(Use Any)
 ----
 ### Username:  sachin  &&  Password: sachin
-### Username:  admin  && Password: note          
+### Username:  admin  && Password: admin          
 
 ### This Application is made with the help of react.
-This project has components like
-a)Login 
-b)Nav
-c)Home
+## This project has components like
+# a)Login 
+# b)Nav
+# c)Home
 
 First page will start from 
